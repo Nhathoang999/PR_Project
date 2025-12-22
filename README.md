@@ -1,1 +1,1 @@
-# NHẬN DẠNG MẪU
+# Pattern Recognition
