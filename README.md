@@ -1,4 +1,4 @@
-# Dự án Nhận Dạng Mẫu: Phân tích dữ liệu gọi vốn cộng đồng Thổ Nhĩ Kỳ
+# Phân tích dữ liệu gọi vốn cộng đồng Thổ Nhĩ Kỳ
 
 ## Tổng quan Dự án
 
@@ -62,3 +62,5 @@ Cấu trúc cây thư mục được tổ chức theo chuẩn Modularizing gọn
    python -m streamlit run app.py
    ```
 5. Mở trình duyệt và truy cập vào `http://localhost:8501` để sử dụng Hệ thống Tư vấn Gọi Vốn.
+
+# Link model: https://drive.google.com/drive/folders/1tlgbrhz9zcyVHlzI7YB9ghOH3imtOo0B?usp=drive_link
