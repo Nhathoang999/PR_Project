@@ -1,4 +1,4 @@
-# Dự án Nhận dạng Mẫu: Phân tích Dữ liệu Gọi vốn Cộng đồng Thổ Nhĩ Kỳ
+# Dự án Nhận Dạng Mẫu: Phân tích dữ liệu gọi vốn cộng đồng Thổ Nhĩ Kỳ
 
 ## Tổng quan Dự án
 
